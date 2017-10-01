@@ -1,0 +1,6 @@
+framework module Pods_IrishPocketReference {
+  umbrella header "Pods-IrishPocketReference-umbrella.h"
+
+  export *
+  module * { export * }
+}
